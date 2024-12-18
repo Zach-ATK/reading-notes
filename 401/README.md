@@ -38,28 +38,28 @@
 
 #### 06 - Threat Modeling and Analysis
 
-1. [Remote Code Execution](cybersecurity-engineering/06-threat-modeling-and-analysis/6.1-remote-code-execution.md)
-2. [Persistence](cybersecurity-engineering/06-threat-modeling-and-analysis/6.2-persistence.md)
-3. [Log Clearing](cybersecurity-engineering/06-threat-modeling-and-analysis/6.3-log-clearing.md)
-4. [Modeling a Web Application](cybersecurity-engineering/06-threat-modeling-and-analysis/6.4-modeling-a-web-application.md)
+1. [Remote Code Execution](broken-reference)
+2. [Persistence](broken-reference)
+3. [Log Clearing](broken-reference)
+4. [Modeling a Web Application](broken-reference)
 
 #### 07 - Threat Hunting
 
-1. [Malware Detection with YARA Rules](cybersecurity-engineering/07-threat-hunting/7.1-malware-detection-with-yara-rules.md)
-2. [Malware Traffic Analysis with Wireshark](cybersecurity-engineering/07-threat-hunting/7.2-malware-traffic-analysis-with-wireshark.md)
-3. [Threat Hunting with Security Onion](cybersecurity-engineering/07-threat-hunting/7.3-threat-hunting-with-security-onion.md)
-4. [Forensic Investigation with Autopsy](cybersecurity-engineering/07-threat-hunting/7.4-forensic-investigation-with-autopsy.md)
+1. [Malware Detection with YARA Rules](broken-reference)
+2. [Malware Traffic Analysis with Wireshark](broken-reference)
+3. [Threat Hunting with Security Onion](broken-reference)
+4. [Forensic Investigation with Autopsy](broken-reference)
 
 #### 08 - Web Application Security
 
-1. [XSS with w3af, DVWA](cybersecurity-engineering/08-web-application-security/8.1-xss-with-w3af-dvwa.md)
-2. [Automated AppSec with ZAP](cybersecurity-engineering/08-web-application-security/8.2-automated-appsec-with-zap.md)
-3. [Attacking Juice Shop with Burp Suite](cybersecurity-engineering/08-web-application-security/8.3-attacking-juice-shop-with-burp-suite.md)
-4. [SQLi with Burp Suite, Web Goat](cybersecurity-engineering/08-web-application-security/8.4-sqli-with-burp-suite-web-goat.md)
+1. [XSS with w3af, DVWA](broken-reference)
+2. [Automated AppSec with ZAP](broken-reference)
+3. [Attacking Juice Shop with Burp Suite](broken-reference)
+4. [SQLi with Burp Suite, Web Goat](broken-reference)
 
 #### 09 - Penetration Testing
 
-1. [Reconnaissance](cybersecurity-engineering/09-penetration-testing/9.1-reconnaissance.md)
-2. [Pass the Hash with Mimikatz](cybersecurity-engineering/09-penetration-testing/9.2-pass-the-hash-with-mimikatz.md)
-3. [Sniffing and Evasion](cybersecurity-engineering/09-penetration-testing/9.3-sniffing-and-evasion.md)
-4. [Exploitation with Metasploit](cybersecurity-engineering/09-penetration-testing/9.4-exploitation-with-metasploit.md)
+1. [Reconnaissance](broken-reference)
+2. [Pass the Hash with Mimikatz](broken-reference)
+3. [Sniffing and Evasion](broken-reference)
+4. [Exploitation with Metasploit](broken-reference)
